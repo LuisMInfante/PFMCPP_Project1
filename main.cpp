@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: dog
+//  action 1: the dog barks
+dog.bark();
+//  action 2: the dog sits
+dog.sit();
+//  action 3: the dog jumps
+dog.jump();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: cat
+//  action 1: the cat meows
+cat.meow();
+//  action 2: the cat purrs
+cat.purr();
+//  action 3: the cat scratches
+cat.scratch();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: owls
+//  action 1: the owl hoots
+owl.hoot();
+//  action 2: the owl flies
+owl.fly();
+//  action 3: the owl eats
+owl.eat();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: lion
+//  action 1: the lion roars
+lion.roar();
+//  action 2: the lion runs
+lion.run();
+//  action 3: the lion attacks
+lion.attack();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: fish
+//  action 1: the fish swims
+fish.swim();
+//  action 2: the fish breathes
+fish.breathe();
+//  action 3: the fish hides
+fish.hide();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: wasp
+//  action 1: the wasp stings
+wasp.sting();
+//  action 2: the wasp flies
+wasp.fly();
+//  action 3: the wasp mates
+wasp.mate();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: squirrel
+//  action 1: the squirrel runs up tree
+squirrel.runUpTree();
+//  action 2: the squirrel breaks nuts
+squirrel.breakNut():
+//  action 3: the squirrel eats
+squirrel.eat();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: panda
+//  action 1: the panda eats bamboo
+panda.eatBamboo();
+//  action 2: the panda sleeps
+panda.sleep();
+//  action 3: the panda relaxes
+panda.relax();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: The Mystical Tree
+//  action 1: The Mystical Tree shares wise old tales
+theMysticalTree.shareWiseOldTale();
+//  action 2: The Mystical Tree gives advice
+theMysticalTree.giveAdvice();
+//  action 3: The Mystical Tree yearns for battle
+theMysticalTree.yearnForBattle();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: grandmother
+//  action 1: the grandmother cooks
+grandmother.cook();
+//  action 2: the grandmother sleeps
+grandmother.sleep();
+//  action 3: the grandmother watches tv
+grandmother.watchTv();
 
 
 #endif
