@@ -116,13 +116,13 @@ panda.sleep();
 //  action 3: the panda relaxes
 panda.relax();
 //  9)
-//  Noun: cheetah
-//  action 1: the cheetah hunts
-cheetah.hunt();
-//  action 2: the cheetah runs
-cheetah.run();
-//  action 3: the cheetah rests
-cheetah.rest();
+//  Noun: The Mystical Tree
+//  action 1: The Mystical Tree shares wise old tales
+theMysticalTree.shareWiseOldTale();
+//  action 2: The Mystical Tree gives advice
+theMysticalTree.giveAdvice();
+//  action 3: The Mystical Tree yearns for battle
+theMysticalTree.yearnForBattle();
 //  10)
 //  Noun: grandmother
 //  action 1: the grandmother cooks
